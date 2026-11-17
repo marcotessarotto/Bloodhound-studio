@@ -2,7 +2,7 @@
 
 **Bloodhound Studio** is a zero-backend, browser-based rap beat generator powered by the **Web Audio API**. Choose a style, speed, tonality, and instruments to instantly generate full multi-section rap beats, test your flow with a built-in lyric pad and mic booth, and export studio-ready **MP3** or **WAV** instrumentals.
 
-> 🔗 **Live Demo:** `https://marcotessarotto.github.io/bloodhound-studio/`
+> 🔗 **Live Demo:** https://marcotessarotto.github.io/Bloodhound-studio/
 
 ---
 
